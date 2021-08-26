@@ -3,11 +3,11 @@
 ### 🌎 Head of Mobile Development in worldee.com 
 
 
-[![SedlarDavid's GitHub stats](https://github-readme-stats.vercel.app/api?username=SedlarDavid&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![SedlarDavid's GitHub stats](https://github-readme-stats.vercel.app/api?username=killov&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
-**SedlarDavid/SedlarDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**killov/killov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
