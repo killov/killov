@@ -1,9 +1,4 @@
-## 📱 Mobile App Developer, Flutter
-
-### 🌎 Head of Mobile Development in worldee.com 
-
-
-[![SedlarDavid's GitHub stats](https://github-readme-stats.vercel.app/api?username=killov&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![killov's GitHub stats](https://github-readme-stats.vercel.app/api?username=killov&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
